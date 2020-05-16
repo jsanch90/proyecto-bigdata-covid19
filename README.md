@@ -21,7 +21,7 @@ Se tienen unos datasets con información sobre el nuevo Coronavirus COVID-19 y s
 # Tecnologías de desarrollo
 
 ## Ingesta, procesamiento y análisis de los datos
-Para esta tarea hicimos uso del framework [Apache Spark](https://spark.apache.org/) adaptado para el lenguaje Python (PySpark) cargamos los datos que venian en formato CSV en dataframes de Spark y realizamos el respectivo procesamiento, finalmente los resultados los almacenamos en ficheros CSV en un Bucket de S3
+Para esta tarea hicimos uso del framework [Apache Spark](https://spark.apache.org/) adaptado para el lenguaje Python (PySpark) cargamos los datos que venian en formato CSV en dataframes de Spark y realizamos el respectivo procesamiento, finalmente los resultados los almacenamos en ficheros CSV en un Bucket de S3. Todo el procesmienro se realizo en un Jupyter notebook sobre un cluster EMR de Amazon.
 ![](https://www.bigdata.uma.es/wp-content/uploads/2020/02/apache-spark-825x460.jpg)
 
 ## Visualización
