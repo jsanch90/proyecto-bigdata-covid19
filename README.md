@@ -16,7 +16,6 @@
 
 # ¿Cual es la problemática que quiere resolver?
 
-acumulado - casos vs fechas
 Se tienen unos datasets con información sobre el nuevo Coronavirus COVID-19 y se espera con ellos realizar un análisis para obtener información de como el virus se esta desarrollando a nivel nacional e internacional, finalmente se desarrollaran varios dashboard para visualizar y tener un mejor entendimiento de los datos obtenidos durante el análisis.
 
 # Tecnologías de desarrollo
@@ -30,4 +29,4 @@ Para la visualización utilizamos [Power BI](https://powerbi.microsoft.com/es-es
 ![](https://businessdataschool.com/wp-content/uploads/2019/02/power-bi-2-0-logo.png)
 
 # Demo
-Acontinuacion se adjunta un video con la demostración del reusltado final del analisis: 
+Acontinuacion se adjunta un video con la demostración del reusltado final del analisis: https://web.microsoftstream.com/video/3b6e2417-e2dd-449e-aeb3-83d4d9e349c0
