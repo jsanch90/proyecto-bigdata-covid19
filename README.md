@@ -6,6 +6,7 @@
 - [Tecnologías de desarrollo](#tecnolog-as-de-desarrollo)
   * [Ingesta, procesamiento y análisis de los datos](#ingesta--procesamiento-y-an-lisis-de-los-datos)
   * [Visualización](#visualizaci-n)
+- [Demo](#demo)
 
 
 ## Desarrolladores
@@ -27,3 +28,6 @@ Para esta tarea hicimos uso del framework [Apache Spark](https://spark.apache.or
 ## Visualización
 Para la visualización utilizamos [Power BI](https://powerbi.microsoft.com/es-es/), cargamos los archivos de salida de Spark que teníamos en el Bucket de S3 y realizamos diferentes gráficos, como mapas de calor, diagramas de barras, diagramas circulares, etc.
 ![](https://businessdataschool.com/wp-content/uploads/2019/02/power-bi-2-0-logo.png)
+
+# Demo
+Acontinuacion se adjunta un video con la demostración del reusltado final del analisis: 
