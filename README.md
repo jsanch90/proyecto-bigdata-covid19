@@ -25,7 +25,7 @@ Para esta tarea hicimos uso del framework [Apache Spark](https://spark.apache.or
 ![](https://www.bigdata.uma.es/wp-content/uploads/2020/02/apache-spark-825x460.jpg)
 
 ## Visualización
-Para la visualización utilizamos [Power BI](https://powerbi.microsoft.com/es-es/), cargamos los archivos de salida de Spark que teníamos en el Bucket de S3 y realizamos diferentes gráficos, como mapas de calor, diagramas de barras, diagramas circulares, etc.
+Para la visualización utilizamos [Power BI](https://powerbi.microsoft.com/es-es/), cargamos los archivos de salida de Spark que teníamos en el Bucket de S3 y realizamos diferentes gráficos, como mapas de calor, diagramas de barras, diagramas circulares, etc. La escogencia del visualizador se basó en la buena calidaad y acogida que este tiene en el mercado, ademas, de su calidad para la realización de dashboards del estilo solicitado.
 ![](https://businessdataschool.com/wp-content/uploads/2019/02/power-bi-2-0-logo.png)
 
 # Demo
